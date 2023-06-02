@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Andrés Cornejo Lira</h1>
 <h3 align="center">Soy un desarrollador web</h3>
 
-- 👨‍💻 All of my projects are available at [www.acldev.site](www.acldev.site)
+- 👨‍💻 Mis proyectos estas disponibles en [www.acldev.site](www.acldev.site)
 
-- 📫 How to reach me **andrescornejolira@acldev.site**
+- 📫 Como contactarme **andrescornejolira@acldev.site**
 
-- 📄 Know about my experiences [https://acldev.site/AndresCornejo-CV.pdf](https://acldev.site/AndresCornejo-CV.pdf)
+- 📄 Mis experiencias [https://acldev.site/AndresCornejo-CV.pdf](https://acldev.site/AndresCornejo-CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
