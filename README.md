@@ -17,6 +17,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
 
-<p><img align="center" width=500 src="https://github-readme-stats.vercel.app/api/top-langs?username=andresc1&show_icons=true&locale=en&layout=compact" alt="andresc1" /></p>
-
-<p>&nbsp;<img align="center" width=500 src="https://github-readme-stats.vercel.app/api?username=andresc1&show_icons=true&locale=en" alt="andresc1" /></p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=andresc1&show_icons=true&locale=en&layout=compact" alt="andresc1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andresc1&show_icons=true&locale=en" alt="andresc1" />
+</p>
