@@ -1,5 +1,7 @@
 <h1 align="center">Hola 👋, Soy Andrés Cornejo Lira</h1>
-<h3 align="center">Soy un desarrollador web</h3>
+<p align="center" width="300">
+   <h3 align="center">Desarrollador web</h3>
+</p>
 
 - 👨‍💻 Mis proyectos estas disponibles en [www.acldev.site](www.acldev.site)
 
