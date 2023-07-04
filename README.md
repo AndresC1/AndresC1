@@ -1,6 +1,12 @@
-<h1 align="center">Hola 👋, Soy Andrés Cornejo Lira</h1>
+
+
+<p align="center">
+  <img width="200" height="200" src="https://avatars.githubusercontent.com/u/79660203?v=1" />
+</p>
+
 <p align="center" width="300">
-   <h3 align="center">Desarrollador web</h3>
+   <h1 align="center">Andrès Alexander Cornejo Lira</h1>
+   <h3 align="center"><b>Desarrollador web</b></h3>
 </p>
 
 <h2 align="left">Contacto</h2>
