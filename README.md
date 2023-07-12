@@ -56,8 +56,9 @@
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
-
-<p>
-  <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andresc1&theme=transparent" alt="andresc1" />
+<p align="center">
+  
+  ![Activities](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andresc1&theme=vue "Activities")
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
