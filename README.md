@@ -5,21 +5,21 @@
 </p>
 
 <p align="center" width="300">
-   <h1 align="center">Andrès Alexander Cornejo Lira</h1>
-   <h3 align="center"><b>Desarrollador web</b></h3>
+   <h3 align="center">Andrès Alexander Cornejo Lira</h3>
+   <h5 align="center"><b>Desarrollador web</b></h5>
 </p>
 
-<h2 align="left">Contacto</h2>
-<p align="left">
-   <p>
-      Portafolio: <a target="_blank" rel="noreferrer" href="https://www.acldev.site">Andrès Cornejo Lira</a>
-   </p>
-   <p>
-      <a  href="https://linkedin.com/in/andres-alexander-cornejo-lira-5b4b85167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andres-alexander-cornejo-lira" height="30" width="40" /></a>
-   </p>
-</p>
+<a href="https://github.com/AndresC1" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/andres-alexander-cornejo-lira-5b4b85167" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
-<h2 align="left">Tecnologias</h2>
+---
+<h3 align="left">Tecnologias</h3>
+
+---
 <h4 align="left">Lenguajes</h4>
 
 <p align="left">
@@ -57,7 +57,10 @@
    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
     </p>
 
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
 
+---
 
 <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andresc1&bg_color=1F222E&color=25d865&line=fb8c00&point=FFFFFF&hide_border=true" />
