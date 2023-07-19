@@ -5,7 +5,7 @@
 </p>
 
 <p align="center" width="300">
-   <h3 align="center">Andrès Alexander Cornejo Lira</h3>
+   <h2 align="center">Andrès Alexander Cornejo Lira</h2>
    <h5 align="center"><b>Desarrollador web</b></h5>
 </p>
 
