@@ -6,7 +6,7 @@
 
 <p align="center" width="300">
    <h2 align="center">Andrès Alexander Cornejo Lira</h2>
-   <h5 align="center"><b>Desarrollador web</b></h5>
+   <h4 align="center"><b>Desarrollador web</b></h4>
 </p>
 
 <a href="https://github.com/AndresC1" target="_blank">
