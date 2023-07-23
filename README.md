@@ -60,6 +60,11 @@
 
 ---
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndresC1 Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=andresc1&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&locale=es" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="AndresC1 Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=andresc1&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff&locale=es" height="192px"/></a>
+  
+---
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es_NI&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
 
 ---
