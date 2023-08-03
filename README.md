@@ -1,7 +1,7 @@
 
 <p align="center">
   <p>
-  <img align="left" width="250" height="250" src="https://avatars.githubusercontent.com/u/79660203?v=1" />
+  <img align="left" width="250" height="250" src="./static/AndresC1.jpg" />
 
   <p align="left" width="300">
    <h3 align="left">Andrès Alexander Cornejo Lira</h3>
