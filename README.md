@@ -1,6 +1,7 @@
 
+---
 <p align="center">
-  <img align="left" width="280" height="280" src="./static/AndresC1.jpg" />
+  <img align="left" width="290" height="290" src="./static/AndresC1.jpg" />
   <p width="120" height="50" align="center">
    <h3><b>Andrès Alexander Cornejo Lira</b></h3>
    <h6>Desarrollador web</h6>
@@ -10,7 +11,7 @@
     <img width="320" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12171091485&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
   </p>
 </p>
-<br/>
+<br/><br/><br/>
 
 <a href="https://github.com/AndresC1" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
