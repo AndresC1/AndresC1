@@ -3,9 +3,9 @@
   <p>
   <img align="left" width="250" height="250" src="./static/AndresC1.jpg" />
 
-  <p align="left" width="300">
-   <h3 align="left">Andrès Alexander Cornejo Lira</h3>
-   <h6 align="left"><b>Desarrollador web</h6>
+  <p align="left" width="320">
+   <h3>Andrès Alexander Cornejo Lira</h3>
+   <h6><b>Desarrollador web</h6>
   </p>
 
   <p align="left">
