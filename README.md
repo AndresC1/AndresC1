@@ -1,7 +1,7 @@
 
 ---
 <p align="center">
-  <img align="left" width="290" height="290" src="./static/AndresC1.jpg" />
+  <img align="left" width="280" height="280" src="./static/AndresC1.jpg" />
   <p width="120" height="50" align="center">
    <h3><b>Andrès Alexander Cornejo Lira</b></h3>
    <h6>Desarrollador web</h6>
