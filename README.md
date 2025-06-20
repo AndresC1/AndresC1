@@ -6,10 +6,6 @@
    <h3><b>Andrès Alexander Cornejo Lira</b></h3>
    <h6>Desarrollador web</h6>
   </p>
-
-  <p align="left">
-    <img width="320" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=12171091485&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false">
-  </p>
 </p>
 <br/><br/><br/>
 
@@ -19,6 +15,7 @@
 <a href="https://linkedin.com/in/andres-alexander-cornejo-lira-5b4b85167" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<br/><br/><br/><br/><br/>
 
 ---
 <h3 align="left">Tecnologias</h3>
@@ -71,6 +68,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AndresC1&theme=highcontrast&border_radius=14&locale=es_NI&date_format=M%20j%5B%2C%20Y%5D&card_width=1000&fire=EB3434&sideNums=EBC634)](https://git.io/streak-stats)
 
----
 
-<img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=andresc1&bg_color=1F222E&color=25d865&line=fb8c00&point=FFFFFF&hide_border=true" />
